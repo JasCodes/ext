@@ -50,13 +50,6 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "0.3.0"
-  context_extensions:
-    dependency: "direct main"
-    description:
-      name: context_extensions
-      url: "https://pub.dartlang.org"
-    source: hosted
-    version: "0.3.0"
   dart_extensions:
     dependency: "direct main"
     description:

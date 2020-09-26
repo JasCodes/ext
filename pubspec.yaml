@@ -1,6 +1,6 @@
 name: ext
 description: A collection of dart extensions curated by @jascodes.
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/jascodes/ext
 
 environment:
@@ -14,7 +14,6 @@ dependencies:
   dart_extensions: ^1.0.1
   collection_ext: ^0.3.0
   list_ext: ^0.1.13
-  context_extensions: ^0.3.0
   supercharged: ^1.10.0
 
 dev_dependencies:
