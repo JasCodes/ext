@@ -1,7 +1,6 @@
 name: ext
 description: A collection of dart extensions curated by @jascodes.
 version: 0.0.1
-author: "Jaspreet Singh <mail@jas.bio>"
 homepage: https://github.com/jascodes/ext
 
 environment:
@@ -21,4 +20,3 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
-
