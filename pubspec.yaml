@@ -1,0 +1,24 @@
+name: ext
+description: A collection of dart extensions curated by @jascodes.
+version: 0.0.1
+author: "Jaspreet Singh <mail@jas.bio>"
+homepage: https://github.com/jascodes/ext
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+  flutter: ">=1.17.0 <2.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  textstyle_extensions: ^1.0.0+2
+  dart_extensions: ^1.0.1
+  collection_ext: ^0.3.0
+  list_ext: ^0.1.13
+  context_extensions: ^0.3.0
+  supercharged: ^1.10.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
