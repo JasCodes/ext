@@ -15,6 +15,7 @@ dependencies:
   collection_ext: ^0.3.0
   list_ext: ^0.1.13
   supercharged: ^1.10.0
+  get: ^3.12.1
 
 dev_dependencies:
   flutter_test:
